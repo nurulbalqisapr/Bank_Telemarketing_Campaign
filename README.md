@@ -1,4 +1,4 @@
-# 🏦 Bank Telemarketing Campaign Optimization
+# 🏦 Bank Marketing Campaign Optimization: Predicting Term Deposit Subscription
 
 ## Project Overview
 
