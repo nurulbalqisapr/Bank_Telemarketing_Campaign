@@ -47,6 +47,12 @@ The dataset also shows that the number of customers who subscribe to a term depo
 3. Help the bank prioritize high-potential customers, reduce inefficient calls to low-potential customers, and improve telemarketing campaign efficiency.
 
 ---
+## 📊 Tableau Dashboard
+
+The Tableau dashboard summarizes the main EDA findings and turns them into business guidance for campaign prioritization.
+
+🔗 **Public Tableau Dashboard:**  
+https://public.tableau.com/app/profile/nrl.balqis/viz/finpro4/Dashboard1#2
 
 ## 📊 Dashboard Preview
 
