@@ -52,7 +52,7 @@ The dataset also shows that the number of customers who subscribe to a term depo
 
 The Tableau dashboard summarizes the main EDA findings and turns them into business guidance for campaign prioritization.
 
-https://public.tableau.com/app/profile/nrl.balqis/viz/finpro4/Dashboard1#2
+<img width="1599" height="899" alt="Dashboard" src="https://github.com/user-attachments/assets/c21bc8d3-4e2a-478f-932b-1a0ddd3ca0a7" />
 
 ### Dashboard Highlights
 
