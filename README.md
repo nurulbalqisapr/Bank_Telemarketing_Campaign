@@ -319,3 +319,11 @@ Based on the analysis and modeling results, the bank should:
 This project demonstrates how data science can support telemarketing campaign optimization. By combining EDA, machine learning, Tableau dashboarding, and Streamlit deployment, the bank can move from broad customer outreach to a more focused and data-driven prioritization strategy.
 
 The final output helps stakeholders understand campaign performance, identify high-potential customer groups, and support better telemarketing decisions.
+
+---
+
+## Streamlit Deployment
+The application has been successfully deployed on Streamlit Community Cloud.
+
+🔗 Live Demo
+https://banktelemarketingcampaign-nrbcappbfxnww6vgbaaubuh.streamlit.app/
