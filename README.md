@@ -54,7 +54,7 @@ The Tableau dashboard summarizes the main EDA findings and turns them into busin
 🔗 **Public Tableau Dashboard:**  
 https://public.tableau.com/app/profile/nrl.balqis/viz/finpro4/Dashboard1#2
 
-## 📊 Dashboard Preview
+### Dashboard Preview
 
 The Tableau dashboard summarizes the main EDA findings and turns them into business guidance for campaign prioritization.
 
